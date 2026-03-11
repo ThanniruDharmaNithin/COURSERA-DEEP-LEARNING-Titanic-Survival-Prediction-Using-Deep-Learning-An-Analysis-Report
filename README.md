@@ -63,17 +63,6 @@ Model 1 was selected for its balance between simplicity, training time, and inte
 
 ---
 
-## 💡 Next Steps & Recommendations
-To improve model performance and reliability:
-
-- Investigate NaN values in loss function and correct preprocessing issues.  
-- Perform advanced feature engineering to extract more informative variables.  
-- Tune model hyperparameters (neurons, layers, learning rate, dropout).  
-- Explore data augmentation or cross-validation to enhance robustness.  
-- Consider alternative deep learning architectures (e.g., LSTM, ensemble models) for better predictive performance.  
-
----
-
 ## 🏆 Conclusion
 While the deep learning models achieved limited accuracy, this project demonstrates the process of applying neural networks to structured tabular data for predictive analysis. The insights gained on features affecting survival provide valuable understanding of historical passenger data and lay a strong foundation for future improvements in predictive modeling.  
 
